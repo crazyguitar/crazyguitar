@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/crazyguitar/)
+[<img src="https://img.shields.io/badge/pdf-resum%C3%A9-green?style=for-the-badge" />](https://drive.google.com/file/d/1ysesoBPAC_y1zWzi6fAFJLB8ifYgAvEL/view?usp=sharing)
 
 My Github Stats: 
 
